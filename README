@@ -1,0 +1,10 @@
+README
+
+//Project: double mptcp proxy - aggregation box
+
+//      Added proxy support for home gateway
+//	Proxy captures packets and modifies
+//	packet header, making a translation 
+//	between MPTCP and TCP.
+//
+
